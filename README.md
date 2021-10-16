@@ -11,7 +11,6 @@ Esse projeto busca ajudar a visualizar momentos no qual é indicada a compra do 
 
 
 # Tecnologias utilizadas
-## Front end
 - Python 
 - Selenium
 - Beautiful Soup
