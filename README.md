@@ -24,7 +24,7 @@ Pré-requisitos: python3
 
 ```bash
 # clonar repositório
-git clone https://github.com/LuanPetruitis/Dt-money.git
+git clone https://github.com/LuanPetruitis/Analise-Acoes
 
 # entrar na pasta do projeto front end web
 cd Analise-Acoes
